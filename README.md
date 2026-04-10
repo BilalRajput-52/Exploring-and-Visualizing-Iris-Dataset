@@ -1,2 +1,2 @@
 # Exploring-and-Visualizing-Iris-Dataset
-AI/ML Engineering Internship Tasks — DevelopersHub Corporation
+ This repository contains AI/ML internship tasks completed at DevelopersHub Corporation, covering data analysis, visualization, and machine learning projects.
