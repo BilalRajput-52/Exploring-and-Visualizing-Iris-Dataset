@@ -61,10 +61,13 @@ Used box plots for outlier detection
 ![Scatter Plot](images/scatter.png)
 
 
+# Scatter Plot (Sepal width vs Petal width)
+![Scatter Plot](images/scatterplot_width.png)
+
+
 # Box Plots (Outlier Detection)
 ![Box Plot](images/boxplot.png)
 
----
 
 # Key Findings
 - Iris-setosa is clearly separable from other species  
