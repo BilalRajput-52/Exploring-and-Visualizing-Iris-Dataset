@@ -94,7 +94,12 @@ Used box plots for outlier detection
 Apply classification algorithms (Logistic Regression, SVM, KNN)
 Perform feature scaling
 Evaluate models using accuracy and confusion matrix
- # Author
- Bilal Ahmed
-BS-IT Student — KFUEIT
+ ##  Author
+
+**[Bilal Ahmed]**
 AI/ML Engineering Intern — DevelopersHub Corporation
+
+-  Email: bilalahmadc.m56@gmail.com
+-  GitHub: [@BilalRajput-52](https://github.com/BilalRajput-52)
+-  LinkedIn: [linkedin.com/in/bilal-ahmed56ab](https://linkedin.com/in/bilal-ahmed56ab)
+
